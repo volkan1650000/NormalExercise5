@@ -1,4 +1,5 @@
 ﻿# NormalExercise5
+ 
 Class 1 - Meeting Scheduler
 Description: Facilitates the scheduling of meetings between two individuals, considering their existing schedules and time boundaries.
 
@@ -7,6 +8,7 @@ Description: Determines if elements in a sequence appear in the same order withi
 
 Class 3 - Password Generator
 Description: Creates a random password of specified length with lowercase, uppercase, symbols, and numbers based on user input.
+
 How to Use
 Clone or download the repository to your local machine.
 Access the desired exercise's Java file within the respective package.
